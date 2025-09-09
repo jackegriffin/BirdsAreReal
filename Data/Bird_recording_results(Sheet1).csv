@@ -1,0 +1,203 @@
+Species,Site_1,Site_2,Site_3,Site_4,Site_5,Site_6,Site_7,Site_8,Site_9
+Acanthis cabaret_Lesser Redpoll,0,0,1,0,0,0,1,1,1
+Acanthis flammea_Common Redpoll,0,0,0,0,0,0,1,0,1
+Accipiter gentilis_Northern Goshawk,1,0,0,0,0,0,0,0,0
+Accipiter nisus_Eurasian Sparrowhawk,0,0,0,0,0,0,0,0,0
+Acrocephalus schoenobaenus_Sedge Warbler,0,0,0,0,0,0,0,0,0
+Acrocephalus scirpaceus_Eurasian Reed Warbler,0,0,0,0,0,0,0,0,0
+Actitis hypoleucos_Common Sandpiper,0,1,0,0,0,0,0,0,0
+Aegithalos caudatus_Long-tailed Tit,0,0,1,0,0,0,0,0,0
+Alauda arvensis_Eurasian Skylark,0,0,0,0,0,0,0,0,0
+Alca torda_Razorbill,0,0,0,0,0,0,0,0,0
+Alcedo atthis_Common Kingfisher,0,0,0,0,0,0,0,0,0
+Alectoris rufa_Red-legged Partridge,0,0,0,0,0,0,0,0,0
+Anas acuta_Northern Pintail,0,0,0,0,0,0,0,0,0
+Anas crecca_Green-winged Teal,0,0,0,0,0,0,0,0,0
+Anas platyrhynchos_Mallard,0,0,0,0,1,0,0,0,0
+Anser albifrons_Greater White-fronted Goose,0,0,0,0,0,0,0,0,0
+Anser anser_Graylag Goose,0,0,0,0,0,0,0,0,0
+Anser brachyrhynchus_Pink-footed Goose,0,0,0,0,0,0,0,0,0
+Anthus petrosus_Rock Pipit,0,0,0,0,0,0,0,0,0
+Anthus pratensis_Meadow Pipit,0,0,1,1,1,0,1,0,0
+Anthus trivialis_Tree Pipit,0,1,1,0,0,0,0,0,1
+Apus apus_Common Swift,0,0,0,0,0,0,0,0,0
+Aquila chrysaetos_Golden Eagle,0,0,0,0,0,0,0,0,0
+Ardea cinerea_Gray Heron,0,0,0,0,0,0,0,0,0
+Ardenna grisea_Sooty Shearwater,0,0,0,0,0,0,0,0,0
+Arenaria interpres_Ruddy Turnstone,0,0,0,0,0,0,0,0,0
+Asio flammeus_Short-eared Owl,0,0,0,0,0,0,0,0,0
+Asio otus_Long-eared Owl,0,0,0,0,0,0,0,0,0
+Aythya ferina_Common Pochard,0,0,0,0,0,0,0,0,0
+Aythya fuligula_Tufted Duck,0,0,0,0,0,0,0,0,0
+Aythya marila_Greater Scaup,0,0,0,0,0,0,0,0,0
+Bombycilla garrulus_Bohemian Waxwing,0,0,0,0,0,0,0,0,0
+Branta bernicla_Brant,0,0,0,0,0,0,0,0,0
+Branta canadensis_Canada Goose,0,0,0,0,0,0,0,0,0
+Branta leucopsis_Barnacle Goose,0,0,0,0,0,0,0,0,0
+Bubo scandiacus_Snowy Owl,0,0,0,0,0,0,0,0,0
+Bucephala clangula_Common Goldeneye,0,0,0,0,0,0,0,0,0
+Buteo buteo_Common Buzzard,0,0,0,0,0,0,0,0,0
+Calcarius lapponicus_Lapland Longspur,0,0,0,0,0,0,0,0,0
+Calidris alba_Sanderling,0,0,0,0,0,0,0,0,0
+Calidris alpina_Dunlin,0,0,0,0,0,0,0,0,0
+Calidris canutus_Red Knot,0,0,0,0,0,0,0,0,0
+Calidris ferruginea_Curlew Sandpiper,0,0,0,0,0,0,0,0,0
+Calidris maritima_Purple Sandpiper,0,0,0,0,0,0,0,0,0
+Calidris minuta_Little Stint,0,0,0,0,0,0,0,0,0
+Calidris pugnax_Ruff,0,0,0,0,0,0,0,0,0
+Carduelis carduelis_European Goldfinch,0,0,0,0,0,0,0,0,0
+Cepphus grylle_Black Guillemot,0,0,0,0,0,0,0,0,0
+Certhia familiaris_Eurasian Treecreeper,1,1,1,0,1,1,1,1,1
+Charadrius hiaticula_Common Ringed Plover,0,0,0,0,0,0,0,0,0
+Chloris chloris_European Greenfinch,0,0,0,0,0,0,0,0,0
+Chroicocephalus ridibundus_Black-headed Gull,0,0,0,0,0,0,0,0,0
+Cinclus cinclus_White-throated Dipper,0,0,0,0,0,0,0,0,0
+Circus aeruginosus_Eurasian Marsh-Harrier,0,0,0,0,0,0,0,0,0
+Circus cyaneus_Hen Harrier,0,0,0,0,0,0,0,0,0
+Clangula hyemalis_Long-tailed Duck,0,0,0,0,0,0,0,0,0
+Columba livia_Rock Pigeon,0,0,0,0,0,0,0,0,0
+Columba oenas_Stock Dove,0,0,0,0,0,0,0,0,0
+Columba palumbus_Common Wood-Pigeon,0,0,0,0,0,0,1,0,0
+Corvus corax_Common Raven,0,0,0,0,0,0,0,0,0
+Corvus cornix_Hooded Crow,0,0,0,0,0,0,0,0,0
+Corvus corone_Carrion Crow,0,0,1,0,1,0,0,0,0
+Corvus frugilegus_Rook,0,0,0,0,0,0,0,1,0
+Corvus monedula_Eurasian Jackdaw,0,0,0,0,0,0,0,0,0
+Coturnix coturnix_Common Quail,0,0,0,0,0,0,0,0,0
+Crex crex_Corn Crake,0,0,0,0,0,0,0,0,0
+Cuculus canorus_Common Cuckoo,0,0,0,0,0,0,0,0,0
+Curruca communis_Greater Whitethroat,0,0,0,0,0,0,0,0,0
+Curruca curruca_Lesser Whitethroat,0,0,0,0,0,0,0,0,0
+Cyanistes caeruleus_Eurasian Blue Tit,1,1,1,0,1,0,0,1,1
+Cygnus cygnus_Whooper Swan,0,0,0,0,0,0,0,0,0
+Cygnus olor_Mute Swan,0,0,0,0,0,0,0,0,0
+Delichon urbicum_Common House-Martin,0,0,0,0,0,0,0,0,0
+Dendrocopos major_Great Spotted Woodpecker,0,0,0,0,0,0,0,0,0
+Egretta garzetta_Little Egret,0,0,0,0,0,0,0,0,0
+Emberiza citrinella_Yellowhammer,0,0,0,0,0,0,0,0,0
+Emberiza schoeniclus_Reed Bunting,0,1,0,0,0,0,0,0,0
+Erithacus rubecula_European Robin,1,1,1,0,1,1,1,1,1
+Falco columbarius_Merlin,0,0,0,0,0,0,0,0,0
+Falco peregrinus_Peregrine Falcon,0,0,0,0,0,0,0,0,0
+Falco tinnunculus_Eurasian Kestrel,0,0,0,0,0,0,0,0,0
+Ficedula hypoleuca_European Pied Flycatcher,0,0,0,0,0,0,0,0,0
+Fratercula arctica_Atlantic Puffin,0,0,0,0,0,0,0,0,0
+Fringilla coelebs_Common Chaffinch,1,0,0,0,0,1,1,0,1
+Fringilla montifringilla_Brambling,0,0,0,0,0,0,0,0,0
+Fulica atra_Eurasian Coot,0,0,0,0,0,0,0,0,0
+Fulmarus glacialis_Northern Fulmar,0,0,0,0,0,0,0,0,0
+Gallinago gallinago_Common Snipe,0,0,0,0,0,0,0,0,0
+Gallinula chloropus_Eurasian Moorhen,0,0,0,0,0,0,0,0,0
+Garrulus glandarius_Eurasian Jay,0,0,0,0,0,0,0,0,0
+Gavia arctica_Arctic Loon,0,0,0,0,0,0,0,0,0
+Gavia immer_Common Loon,0,0,0,0,0,0,0,0,0
+Gavia stellata_Red-throated Loon,0,0,0,0,0,0,0,0,0
+Haematopus ostralegus_Eurasian Oystercatcher,0,0,0,0,0,0,0,0,0
+Haliaeetus albicilla_White-tailed Eagle,0,0,0,0,0,0,0,0,0
+Hirundo rustica_Barn Swallow,0,0,0,0,0,0,0,0,0
+Histrionicus histrionicus_Harlequin Duck,0,0,0,0,0,0,0,0,0
+Hydrobates pelagicus_European Storm-Petrel,0,0,0,0,0,0,0,0,0
+Hydrocoloeus minutus_Little Gull,0,0,0,0,0,0,0,0,0
+Ichthyaetus melanocephalus_Mediterranean Gull,0,0,0,0,0,0,0,0,0
+Lagopus lagopus_Willow Ptarmigan,0,0,0,0,0,0,0,0,0
+Lagopus muta_Rock Ptarmigan,0,0,0,0,0,0,0,0,0
+Larus argentatus_Herring Gull,0,0,0,0,0,0,0,0,0
+Larus canus_Common Gull,0,0,0,0,0,0,0,0,0
+Larus fuscus_Lesser Black-backed Gull,0,0,0,0,0,0,0,0,0
+Larus glaucoides_Iceland Gull,0,0,0,0,0,0,0,0,0
+Larus hyperboreus_Glaucous Gull,0,0,0,0,0,0,0,0,0
+Larus marinus_Great Black-backed Gull,0,0,0,0,0,0,0,0,0
+Limosa lapponica_Bar-tailed Godwit,0,0,0,0,0,0,0,0,0
+Limosa limosa_Black-tailed Godwit,0,0,0,0,0,0,0,0,0
+Linaria cannabina_Eurasian Linnet,0,0,0,0,0,0,0,0,0
+Linaria flavirostris_Twite,0,0,0,0,0,0,0,0,0
+Locustella naevia_Common Grasshopper-Warbler,0,0,0,0,0,0,0,0,0
+Lophophanes cristatus_Crested Tit,1,1,1,1,1,1,1,0,1
+Loxia curvirostra_Red Crossbill,1,0,0,1,1,0,1,1,1
+Loxia pytyopsittacus_Parrot Crossbill,1,1,0,1,1,0,0,1,0
+Loxia scotica_Scottish Crossbill,0,0,0,0,0,0,0,0,0
+Luscinia svecica_Bluethroat,0,0,0,0,0,0,0,0,0
+Lymnocryptes minimus_Jack Snipe,0,0,0,0,0,0,0,0,0
+Lyrurus tetrix_Black Grouse,0,0,0,0,0,0,0,0,0
+Mareca penelope_Eurasian Wigeon,0,0,0,0,0,0,0,0,0
+Mareca strepera_Gadwall,0,0,0,0,0,0,0,0,0
+Melanitta fusca_Velvet Scoter,0,0,0,0,0,0,0,0,0
+Melanitta nigra_Common Scoter,0,0,0,0,0,0,0,0,0
+Mergus merganser_Common Merganser,0,0,0,0,0,0,0,0,0
+Mergus serrator_Red-breasted Merganser,0,0,0,0,0,0,0,0,0
+Milvus milvus_Red Kite,0,0,0,0,0,0,0,0,0
+Morus bassanus_Northern Gannet,0,0,0,0,0,0,0,0,0
+Motacilla alba_White Wagtail,0,0,0,0,0,0,1,0,1
+Motacilla cinerea_Gray Wagtail,0,0,0,0,0,0,0,0,1
+Motacilla flava_Western Yellow Wagtail,0,0,0,0,0,0,0,0,0
+Muscicapa striata_Spotted Flycatcher,1,0,1,0,0,0,0,0,0
+Numenius arquata_Eurasian Curlew,0,0,0,0,0,0,0,0,0
+Numenius phaeopus_Whimbrel,0,0,0,0,0,0,0,0,0
+Oenanthe oenanthe_Northern Wheatear,0,0,0,0,0,0,0,0,0
+Oxyura jamaicensis_Ruddy Duck,0,0,0,0,0,0,0,0,0
+Pandion haliaetus_Osprey,0,0,0,0,0,0,0,0,0
+Parus major_Great Tit,0,1,1,1,0,0,0,0,0
+Passer domesticus_House Sparrow,0,0,0,0,0,0,0,0,0
+Passer montanus_Eurasian Tree Sparrow,0,0,0,0,0,0,0,0,0
+Perdix perdix_Gray Partridge,0,0,0,0,0,0,0,0,0
+Periparus ater_Coal Tit,1,1,1,1,1,1,1,1,1
+Phalacrocorax carbo_Great Cormorant,0,0,0,0,0,0,0,0,0
+Phalaropus fulicarius_Red Phalarope,0,0,0,0,0,0,0,0,0
+Phalaropus lobatus_Red-necked Phalarope,0,0,0,0,0,0,0,0,0
+Phasianus colchicus_Ring-necked Pheasant,0,0,0,0,0,0,0,0,0
+Phoenicurus ochruros_Black Redstart,0,0,1,0,0,0,0,0,0
+Phoenicurus phoenicurus_Common Redstart,0,0,0,0,0,0,0,0,0
+Phylloscopus collybita_Common Chiffchaff,0,0,0,0,0,0,0,0,0
+Phylloscopus inornatus_Yellow-browed Warbler,0,0,0,0,0,0,0,0,0
+Phylloscopus sibilatrix_Wood Warbler,0,0,0,0,0,0,1,0,0
+Phylloscopus trochilus_Willow Warbler,0,0,0,0,0,0,0,0,0
+Pica pica_Eurasian Magpie,0,0,0,0,0,0,0,0,0
+Picus viridis_Eurasian Green Woodpecker,0,0,0,0,0,0,0,0,0
+Plectrophenax nivalis_Snow Bunting,0,1,0,1,0,0,0,0,0
+Pluvialis apricaria_European Golden-Plover,0,0,0,0,0,0,0,0,1
+Pluvialis squatarola_Black-bellied Plover,0,0,0,0,0,0,0,0,0
+Podiceps auritus_Horned Grebe,0,0,0,0,0,0,0,0,0
+Podiceps cristatus_Great Crested Grebe,0,0,0,0,0,0,0,0,0
+Prunella modularis_Dunnock,1,1,1,0,0,0,0,1,1
+Puffinus puffinus_Manx Shearwater,0,0,0,0,0,0,0,0,0
+Pyrrhocorax pyrrhocorax_Red-billed Chough,0,0,0,0,0,0,0,0,0
+Pyrrhula pyrrhula_Eurasian Bullfinch,0,0,0,0,0,0,0,0,1
+Rallus aquaticus_Water Rail,0,0,0,0,0,0,0,0,0
+Regulus regulus_Goldcrest,1,1,1,1,1,1,1,1,1
+Riparia riparia_Bank Swallow,0,0,0,0,0,0,0,0,0
+Rissa tridactyla_Black-legged Kittiwake,0,0,0,0,0,0,0,0,0
+Saxicola rubetra_Whinchat,0,0,0,0,0,0,0,0,0
+Saxicola rubicola_European Stonechat,0,0,0,1,0,0,0,0,0
+Scolopax rusticola_Eurasian Woodcock,0,0,0,0,0,0,0,0,0
+Sitta europaea_Eurasian Nuthatch,0,0,0,0,0,0,0,0,0
+Somateria mollissima_Common Eider,0,0,0,0,0,0,0,0,0
+Spatula clypeata_Northern Shoveler,0,0,0,0,0,0,0,0,0
+Spatula querquedula_Garganey,0,0,0,0,0,0,0,0,0
+Spinus spinus_Eurasian Siskin,1,1,1,1,1,1,1,1,1
+Stercorarius parasiticus_Parasitic Jaeger,0,0,0,0,0,0,0,0,0
+Stercorarius skua_Great Skua,0,0,0,0,0,0,0,0,0
+Sterna hirundo_Common Tern,0,0,0,0,0,0,0,0,0
+Sterna paradisaea_Arctic Tern,0,0,0,0,0,0,0,0,0
+Streptopelia decaocto_Eurasian Collared-Dove,0,0,0,0,0,0,0,0,0
+Strix aluco_Tawny Owl,1,0,0,1,0,0,0,0,0
+Sturnus vulgaris_European Starling,0,0,0,0,0,0,0,0,0
+Sylvia atricapilla_Eurasian Blackcap,0,0,0,0,0,0,0,0,0
+Sylvia borin_Garden Warbler,0,0,0,0,0,0,0,0,0
+Tachybaptus ruficollis_Little Grebe,0,0,0,0,0,0,0,0,0
+Tadorna tadorna_Common Shelduck,0,0,0,0,0,0,0,0,0
+Thalasseus sandvicensis_Sandwich Tern,0,0,0,0,0,0,0,0,0
+Tringa erythropus_Spotted Redshank,0,0,0,0,0,0,0,0,0
+Tringa glareola_Wood Sandpiper,0,1,0,0,0,0,0,0,0
+Tringa nebularia_Common Greenshank,0,0,0,0,0,0,0,0,0
+Tringa ochropus_Green Sandpiper,0,0,0,0,0,0,0,0,0
+Tringa totanus_Common Redshank,0,0,0,0,0,0,0,0,0
+Troglodytes troglodytes_Eurasian Wren,1,1,1,0,1,0,1,1,1
+Turdus iliacus_Redwing,0,0,0,0,1,1,1,0,0
+Turdus merula_Eurasian Blackbird,0,0,0,0,0,0,0,0,0
+Turdus philomelos_Song Thrush,1,0,0,0,0,0,1,1,0
+Turdus pilaris_Fieldfare,0,0,0,0,0,0,0,0,0
+Turdus torquatus_Ring Ouzel,0,0,0,0,0,0,0,0,0
+Turdus viscivorus_Mistle Thrush,0,0,0,0,0,0,1,1,0
+Tyto alba_Barn Owl,0,0,0,0,0,0,0,0,0
+Uria aalge_Common Murre,0,0,0,0,0,0,0,0,0
+Vanellus vanellus_Northern Lapwing,0,0,0,0,0,0,0,0,0
