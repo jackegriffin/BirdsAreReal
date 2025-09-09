@@ -16,12 +16,24 @@ bird_data$habitat <- factor(bird_data$habitat)
 adonis2(veg_dist ~ habitat, data = bird_data)
 
 # Run a PCA 
+# Stuff with Matus
+library(FactoMineR)
+library(factoextra)
 
 veg_matrix <- as.data.frame(lapply(veg_matrix, as.numeric))
 
 pca_res <- prcomp(veg_matrix, scale. = TRUE)
 summary(pca_res)
 
+PCA_matus <- PCA(veg_matrix, scale.unit = T, ncp = 5, graph = T)
+
+fviz_eig(PCA_matus, addlabels = T)
+
+PCA_matus$var$contrib
+
+# PC1 explains everything except the heather occurrence
+# PC2 is explained by the heather mostly.
+#
 # Extract PC1 for each site
 bird_data$veg_score <- pca_res$x[,1]
 
