@@ -1,19 +1,9 @@
 # Our Code
 
-# Library
-# Install packages
-
-install.packages("dplyr")
-library(dplyr)
-install.packages("vegan")
-library(vegan)
-
-# Data has already been cleaned and sorted using Excel, and so the code presented will dive straight into some of our analysis.
-
-
 # Bird Project 08/09/25
 
 # Load libraries
+
 library(tidyverse)
 library(vegan)
 library(ggplot2)
@@ -26,8 +16,8 @@ library(gridExtra)
 
 # Bird Data ----
 
-# Choose your own path
-bird <- read_csv("your_path")
+# Import data
+bird <- read_csv("Data/Birdresults.csv")
 View(bird)
 
 
@@ -64,6 +54,7 @@ site_summary <- birds_long %>%
 anova_result <- aov(Total_Count ~ Habitat, data = site_summary)
 summary(anova_result)
 
+# ANOVA results
 resid_anova <- residuals(anova_result)
 shapiro.test(resid_anova)
 
@@ -77,7 +68,6 @@ bartlett.test(Count~Habitat, data = birds_long)
 
 # Plotting Tukey's test result
 plot(bird_test)
-
 
 # Transpose so rows = sites, cols = species
 bird_matrix <- t(bird)
@@ -93,8 +83,6 @@ bird_matrix <- apply(bird_matrix, 2, as.numeric)
 
 # Convert back to matrix
 bird_matrix <- as.matrix(bird_matrix)
-
-
 
 # Assuming your data is called birds_long (Species, Site, Count, Habitat)
 # Convert to wide format: rows = sites, cols = species
