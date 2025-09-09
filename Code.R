@@ -191,7 +191,7 @@ ggplot(site_scores, aes(NMDS1, NMDS2, color = Habitat, fill = Habitat)) +
 # Vegetation Data ----
 
 # Choose own path
-veg <- read_csv("your_path")
+veg <- read_csv("Data/veg_type_data(Sheet1).csv")
 View(veg)
 
 
