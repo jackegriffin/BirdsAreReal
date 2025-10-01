@@ -7,6 +7,7 @@ library(broom)
 library(grid)
 library(gridExtra)
 
+
 # Bird Data ----
 
 # Load data
