@@ -10,7 +10,7 @@ library(gridExtra)
 # Bird Data ----
 
 # Load data
-bird <- read_csv("C:/Users/abiga/Downloads/Bird(Sheet1).csv")
+bird <- read_csv("your_path")
 View(bird)
 
 # Reshape to long format
