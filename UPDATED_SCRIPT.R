@@ -247,10 +247,14 @@ comm_matrix <- as.data.frame(lapply(veg, as.numeric))
 # Assign rownames as site IDs
 rownames(comm_matrix) <- paste0("Site_", seq_len(nrow(comm_matrix)))
 
+# Create a vector of site IDs from rownames
+sites <- rownames(comm_matrix)
+
 # Define habitat factor
-habitat <- factor(c(rep("Plantation", 3),
-                    rep("Heathland", 3),
-                    rep("Caledonian", 3)))
+habitat <- factor(case_when(
+  sites %in% c("Site_1", "Site_5", "Site_6") ~ "Plantation",
+  sites %in% c("Site_2", "Site_3", "Site_4") ~ "Heathland",
+  sites %in% c("Site_7", "Site_8", "Site_9") ~ "Caledonian"))
 
 # Check
 comm_matrix
